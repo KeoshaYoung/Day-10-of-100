@@ -18,3 +18,4 @@ numberOfPeople = int(input("How many people?: "))
 answer = myBill / numberOfPeople
 print("You all owe", answer)
 ```
+I enjoyed learning float and int.
